@@ -4,6 +4,6 @@ This code is a simple example of spam classification using a bag-of-words repres
 
 ## Requirements
 
-- Python 3
-- pandas
-- scikit-learn
+- Python 3.10.12
+- pandas 2.0.1
+- scikit-learn 1.2.2
